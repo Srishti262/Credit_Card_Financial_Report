@@ -1,5 +1,5 @@
 # Credit_Card_Financial_Report
-Credit Card Transaction and Customer Dashboard using Power BI
+Credit Card Transaction and Customer Dashboard using Power BI. 
 This project involves the development of an interactive financial dashboard using Power BI, leveraging transaction and customer data from a SQL database. The dashboard is designed to provide real-time insights into key performance metrics and trends, supporting stakeholders in making informed decisions.
 
 
